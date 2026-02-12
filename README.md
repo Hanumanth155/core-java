@@ -1,1 +1,1 @@
-# X-workZ-Internship-Java
+# core-java
