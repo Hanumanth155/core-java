@@ -1,32 +1,32 @@
-class Printer{
+class Mouse{
 	
 	static double getPrice(){
-		double price = 7499.00;
+		double price = 799.00;
 		return price;
 	}
 	
 	static String getBrand(){
-		String brand = "HP";
+		String brand = "Dell";
 		return brand;
 	}
 	
 	static String getModelNumber(){
-		String number = "DeskJet 2331";
+		String number = "MS116";
 		return number;
 	}
 	
 	static String getType(){
-		String type = "Inkjet";
+		String type = "Optical";
 		return type;
 	}
 	
-	static boolean getWifiSupport(){
-		boolean wifi = false;
-		return wifi;
+	static boolean getWireless(){
+		boolean wireless = false;
+		return wireless;
 	}
 	
 	static String getColor(){
-		String color = "White";
+		String color = "Black";
 		return color;
 	}
 }

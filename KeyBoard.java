@@ -1,32 +1,32 @@
-class Printer{
+class KeyBoard{
 	
 	static double getPrice(){
-		double price = 7499.00;
+		double price = 999.00;
 		return price;
 	}
 	
 	static String getBrand(){
-		String brand = "HP";
+		String brand = "Logitech";
 		return brand;
 	}
 	
 	static String getModelNumber(){
-		String number = "DeskJet 2331";
+		String number = "K120";
 		return number;
 	}
 	
 	static String getType(){
-		String type = "Inkjet";
+		String type = "Wired";
 		return type;
 	}
 	
-	static boolean getWifiSupport(){
-		boolean wifi = false;
-		return wifi;
+	static boolean getBacklightSupport(){
+		boolean backlight = false;
+		return backlight;
 	}
 	
 	static String getColor(){
-		String color = "White";
+		String color = "Black";
 		return color;
 	}
 }
